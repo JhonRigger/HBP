@@ -1,3 +1,5 @@
-awvlnadjnvlakre vaeorjne
+Datos estructurados
 blah blah blah
-edad 23
+Nombre: Jhoon Rigger
+Edad: 23
+Practicando git...
