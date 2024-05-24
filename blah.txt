@@ -2,4 +2,5 @@ Datos estructurados
 blah blah blah
 Nombre: Jhoon Rigger
 Edad: 23
+Altura (cm): 172
 Practicando git...
