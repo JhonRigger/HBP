@@ -1,7 +1,15 @@
-Datos estructurados
-blah blah blah
-Nombre: Jhoon Rigger
-Edad: 23
-Altura (cm): 172
-nuevo
-Practicando git...
+awvlnadjnvlakre vaeorjne  blah blah blah
+
+•	Git show | Muestra ultimo cambio y la versión original.
+•	Git status | muestra el estado del archivo/directorio actual.
+•	Git add . | agrega los cambios en los archivos del directorio actual.
+•	Git commit -m “Mensaje” | Envia los cambios y deja un mensaje descriptivo de los cambios hechos.
+•	Git commit | envia los cambios sin comentarios.
+•	Git log ‘archivo.txt’ | muestra todos los cambios/commit hechos en el archivo.
+•	Git diff ‘commit1’ ‘commit2’ | compara los cambios de los dos commit (commit1: antiguo | commit2: nuevo)
+•	Git init |crea un directorio de control de versiones en la dirección actual.
+•	Checkout | 
+•	
+•	Git reset ‘commit3’ | vuelve a la versión del commit seleccionado
+o	--hard | todo vuelve al aversion seleccionada borrando todos los commit (solo deja el original y el commit seleccionado)
+o	–soft | vuelve
