@@ -13,3 +13,5 @@ awvlnadjnvlakre vaeorjne  blah blah blah
 •	Git reset ‘commit3’ | vuelve a la versión del commit seleccionado
 o	--hard | todo vuelve al aversion seleccionada borrando todos los commit (solo deja el original y el commit seleccionado)
 o	–soft | vuelve
+
+s;lv,d;fmv;lf;s
